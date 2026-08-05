@@ -1,15 +1,18 @@
-﻿# рџђЌ Gorgona One | Social Analyzer
+# 🐍 Gorgona One | Social Analyzer
 
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
+**Создатель:** Алексей Александров  
+***Проект:** Gorgona One AI  
 
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
-## рџљЂ Overview
-Social Analyzer is a powerful OSINT utility included in the Gorgona One toolset.
+## 🚚 Описание (Overview)
+
+🇵🇷 Платформа для анализа и поиска профилей пользователей на более чем 1000 социальных сетях и сайтах.
+🇵🇧 A platform for analyzing and finding user profiles across more than 1000 social media platforms and websites.
 
 ---
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
